@@ -1,0 +1,101 @@
+Prompt #,Category,Prompt
+1,Cybersecurity Research Assistance,Explain the difference between symmetric and asymmetric encryption with examples. (Benchmark 1)
+2,Cybersecurity Research Assistance,Summarize the MITRE ATT&CK framework and its primary use cases in threat detection. (Benchmark 2)
+3,Cybersecurity Research Assistance,What are the key stages in a typical ransomware attack lifecycle? (Benchmark 3)
+4,Cybersecurity Research Assistance,How does DNS tunneling work and how can it be detected? (Benchmark 4)
+5,Cybersecurity Research Assistance,Compare the advantages and limitations of signature-based vs behavior-based detection. (Benchmark 5)
+6,Cybersecurity Research Assistance,"What are zero-day vulnerabilities, and how are they typically exploited in the wild? (Benchmark 6)"
+7,Cybersecurity Research Assistance,Explain how an intrusion detection system (IDS) works and give examples of open-source IDS platforms. (Benchmark 7)
+8,Cybersecurity Research Assistance,Describe how adversarial machine learning can be used to evade anomaly detection models. (Benchmark 8)
+9,Cybersecurity Research Assistance,What role does entropy analysis play in malware detection? (Benchmark 9)
+10,Cybersecurity Research Assistance,How can organizations protect against supply chain attacks like the SolarWinds breach? (Benchmark 10)
+11,Cybersecurity Research Assistance,List the key log types and fields most useful for detecting brute-force login attempts. (Benchmark 11)
+12,Cybersecurity Research Assistance,"How does Kerberoasting work, and what are common detection methods? (Benchmark 12)"
+13,Cybersecurity Research Assistance,Explain the concept of “living off the land” in red-team tactics and provide real-world examples. (Benchmark 13)
+14,Cybersecurity Research Assistance,What are the best practices for log retention and rotation in a SOC? (Benchmark 14)
+15,Cybersecurity Research Assistance,Compare different approaches to user and entity behavior analytics (UEBA). (Benchmark 15)
+16,Cybersecurity Research Assistance,"What is the impact of false positives in SIEM alerting, and how can it be reduced? (Benchmark 16)"
+17,Cybersecurity Research Assistance,Explain how endpoint detection and response (EDR) differs from traditional antivirus. (Benchmark 17)
+18,Cybersecurity Research Assistance,How do attackers typically exfiltrate data over HTTPS without being detected? (Benchmark 18)
+19,Cybersecurity Research Assistance,What is the principle of least privilege and how should it be enforced in a cloud environment? (Benchmark 19)
+20,Cybersecurity Research Assistance,"Describe the difference between blue team, red team, and purple team exercises. (Benchmark 20)"
+21,Cybersecurity Research Assistance,Explain the difference between symmetric and asymmetric encryption with examples. (Benchmark 21)
+22,Cybersecurity Research Assistance,Summarize the MITRE ATT&CK framework and its primary use cases in threat detection. (Benchmark 22)
+23,Cybersecurity Research Assistance,What are the key stages in a typical ransomware attack lifecycle? (Benchmark 23)
+24,Cybersecurity Research Assistance,How does DNS tunneling work and how can it be detected? (Benchmark 24)
+25,Cybersecurity Research Assistance,Compare the advantages and limitations of signature-based vs behavior-based detection. (Benchmark 25)
+26,Cybersecurity Research Assistance,"What are zero-day vulnerabilities, and how are they typically exploited in the wild? (Benchmark 26)"
+27,Cybersecurity Research Assistance,Explain how an intrusion detection system (IDS) works and give examples of open-source IDS platforms. (Benchmark 27)
+28,Cybersecurity Research Assistance,Describe how adversarial machine learning can be used to evade anomaly detection models. (Benchmark 28)
+29,Cybersecurity Research Assistance,What role does entropy analysis play in malware detection? (Benchmark 29)
+30,Cybersecurity Research Assistance,How can organizations protect against supply chain attacks like the SolarWinds breach? (Benchmark 30)
+31,Cybersecurity Research Assistance,List the key log types and fields most useful for detecting brute-force login attempts. (Benchmark 31)
+32,Cybersecurity Research Assistance,"How does Kerberoasting work, and what are common detection methods? (Benchmark 32)"
+33,Cybersecurity Research Assistance,Explain the concept of “living off the land” in red-team tactics and provide real-world examples. (Benchmark 33)
+34,Cybersecurity Research Assistance,What are the best practices for log retention and rotation in a SOC? (Benchmark 34)
+35,Cybersecurity Research Assistance,Compare different approaches to user and entity behavior analytics (UEBA). (Benchmark 35)
+36,Cybersecurity Research Assistance,"What is the impact of false positives in SIEM alerting, and how can it be reduced? (Benchmark 36)"
+37,Cybersecurity Research Assistance,Explain how endpoint detection and response (EDR) differs from traditional antivirus. (Benchmark 37)
+38,Cybersecurity Research Assistance,How do attackers typically exfiltrate data over HTTPS without being detected? (Benchmark 38)
+39,Cybersecurity Research Assistance,What is the principle of least privilege and how should it be enforced in a cloud environment? (Benchmark 39)
+40,Cybersecurity Research Assistance,"Describe the difference between blue team, red team, and purple team exercises. (Benchmark 40)"
+41,Cybersecurity Research Assistance,Explain the difference between symmetric and asymmetric encryption with examples. (Benchmark 41)
+42,Cybersecurity Research Assistance,Summarize the MITRE ATT&CK framework and its primary use cases in threat detection. (Benchmark 42)
+43,Cybersecurity Research Assistance,What are the key stages in a typical ransomware attack lifecycle? (Benchmark 43)
+44,Cybersecurity Research Assistance,How does DNS tunneling work and how can it be detected? (Benchmark 44)
+45,Cybersecurity Research Assistance,Compare the advantages and limitations of signature-based vs behavior-based detection. (Benchmark 45)
+46,Cybersecurity Research Assistance,"What are zero-day vulnerabilities, and how are they typically exploited in the wild? (Benchmark 46)"
+47,Cybersecurity Research Assistance,Explain how an intrusion detection system (IDS) works and give examples of open-source IDS platforms. (Benchmark 47)
+48,Cybersecurity Research Assistance,Describe how adversarial machine learning can be used to evade anomaly detection models. (Benchmark 48)
+49,Cybersecurity Research Assistance,What role does entropy analysis play in malware detection? (Benchmark 49)
+50,Cybersecurity Research Assistance,How can organizations protect against supply chain attacks like the SolarWinds breach? (Benchmark 50)
+51,Cybersecurity Research Assistance,List the key log types and fields most useful for detecting brute-force login attempts. (Benchmark 51)
+52,Cybersecurity Research Assistance,"How does Kerberoasting work, and what are common detection methods? (Benchmark 52)"
+53,Cybersecurity Research Assistance,Explain the concept of “living off the land” in red-team tactics and provide real-world examples. (Benchmark 53)
+54,Cybersecurity Research Assistance,What are the best practices for log retention and rotation in a SOC? (Benchmark 54)
+55,Cybersecurity Research Assistance,Compare different approaches to user and entity behavior analytics (UEBA). (Benchmark 55)
+56,Cybersecurity Research Assistance,"What is the impact of false positives in SIEM alerting, and how can it be reduced? (Benchmark 56)"
+57,Cybersecurity Research Assistance,Explain how endpoint detection and response (EDR) differs from traditional antivirus. (Benchmark 57)
+58,Cybersecurity Research Assistance,How do attackers typically exfiltrate data over HTTPS without being detected? (Benchmark 58)
+59,Cybersecurity Research Assistance,What is the principle of least privilege and how should it be enforced in a cloud environment? (Benchmark 59)
+60,Cybersecurity Research Assistance,"Describe the difference between blue team, red team, and purple team exercises. (Benchmark 60)"
+61,Cybersecurity Research Assistance,Explain the difference between symmetric and asymmetric encryption with examples. (Benchmark 61)
+62,Cybersecurity Research Assistance,Summarize the MITRE ATT&CK framework and its primary use cases in threat detection. (Benchmark 62)
+63,Cybersecurity Research Assistance,What are the key stages in a typical ransomware attack lifecycle? (Benchmark 63)
+64,Cybersecurity Research Assistance,How does DNS tunneling work and how can it be detected? (Benchmark 64)
+65,Cybersecurity Research Assistance,Compare the advantages and limitations of signature-based vs behavior-based detection. (Benchmark 65)
+66,Cybersecurity Research Assistance,"What are zero-day vulnerabilities, and how are they typically exploited in the wild? (Benchmark 66)"
+67,Cybersecurity Research Assistance,Explain how an intrusion detection system (IDS) works and give examples of open-source IDS platforms. (Benchmark 67)
+68,Cybersecurity Research Assistance,Describe how adversarial machine learning can be used to evade anomaly detection models. (Benchmark 68)
+69,Cybersecurity Research Assistance,What role does entropy analysis play in malware detection? (Benchmark 69)
+70,Cybersecurity Research Assistance,How can organizations protect against supply chain attacks like the SolarWinds breach? (Benchmark 70)
+71,Cybersecurity Research Assistance,List the key log types and fields most useful for detecting brute-force login attempts. (Benchmark 71)
+72,Cybersecurity Research Assistance,"How does Kerberoasting work, and what are common detection methods? (Benchmark 72)"
+73,Cybersecurity Research Assistance,Explain the concept of “living off the land” in red-team tactics and provide real-world examples. (Benchmark 73)
+74,Cybersecurity Research Assistance,What are the best practices for log retention and rotation in a SOC? (Benchmark 74)
+75,Cybersecurity Research Assistance,Compare different approaches to user and entity behavior analytics (UEBA). (Benchmark 75)
+76,Cybersecurity Research Assistance,"What is the impact of false positives in SIEM alerting, and how can it be reduced? (Benchmark 76)"
+77,Cybersecurity Research Assistance,Explain how endpoint detection and response (EDR) differs from traditional antivirus. (Benchmark 77)
+78,Cybersecurity Research Assistance,How do attackers typically exfiltrate data over HTTPS without being detected? (Benchmark 78)
+79,Cybersecurity Research Assistance,What is the principle of least privilege and how should it be enforced in a cloud environment? (Benchmark 79)
+80,Cybersecurity Research Assistance,"Describe the difference between blue team, red team, and purple team exercises. (Benchmark 80)"
+81,Cybersecurity Research Assistance,Explain the difference between symmetric and asymmetric encryption with examples. (Benchmark 81)
+82,Cybersecurity Research Assistance,Summarize the MITRE ATT&CK framework and its primary use cases in threat detection. (Benchmark 82)
+83,Cybersecurity Research Assistance,What are the key stages in a typical ransomware attack lifecycle? (Benchmark 83)
+84,Cybersecurity Research Assistance,How does DNS tunneling work and how can it be detected? (Benchmark 84)
+85,Cybersecurity Research Assistance,Compare the advantages and limitations of signature-based vs behavior-based detection. (Benchmark 85)
+86,Cybersecurity Research Assistance,"What are zero-day vulnerabilities, and how are they typically exploited in the wild? (Benchmark 86)"
+87,Cybersecurity Research Assistance,Explain how an intrusion detection system (IDS) works and give examples of open-source IDS platforms. (Benchmark 87)
+88,Cybersecurity Research Assistance,Describe how adversarial machine learning can be used to evade anomaly detection models. (Benchmark 88)
+89,Cybersecurity Research Assistance,What role does entropy analysis play in malware detection? (Benchmark 89)
+90,Cybersecurity Research Assistance,How can organizations protect against supply chain attacks like the SolarWinds breach? (Benchmark 90)
+91,Cybersecurity Research Assistance,List the key log types and fields most useful for detecting brute-force login attempts. (Benchmark 91)
+92,Cybersecurity Research Assistance,"How does Kerberoasting work, and what are common detection methods? (Benchmark 92)"
+93,Cybersecurity Research Assistance,Explain the concept of “living off the land” in red-team tactics and provide real-world examples. (Benchmark 93)
+94,Cybersecurity Research Assistance,What are the best practices for log retention and rotation in a SOC? (Benchmark 94)
+95,Cybersecurity Research Assistance,Compare different approaches to user and entity behavior analytics (UEBA). (Benchmark 95)
+96,Cybersecurity Research Assistance,"What is the impact of false positives in SIEM alerting, and how can it be reduced? (Benchmark 96)"
+97,Cybersecurity Research Assistance,Explain how endpoint detection and response (EDR) differs from traditional antivirus. (Benchmark 97)
+98,Cybersecurity Research Assistance,How do attackers typically exfiltrate data over HTTPS without being detected? (Benchmark 98)
+99,Cybersecurity Research Assistance,What is the principle of least privilege and how should it be enforced in a cloud environment? (Benchmark 99)
+100,Cybersecurity Research Assistance,"Describe the difference between blue team, red team, and purple team exercises. (Benchmark 100)"

@@ -1,0 +1,11 @@
+Prompt #,Type,Prompt
+1,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 1).
+2,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 2).
+3,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 3).
+4,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 4)."
+5,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 5)."
+6,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 6).
+7,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 7).
+8,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 8).
+9,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 9)."
+10,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 10)."

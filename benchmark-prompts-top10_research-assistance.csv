@@ -1,0 +1,11 @@
+Prompt #,Category,Prompt
+1,Cybersecurity Research Assistance,Explain the difference between symmetric and asymmetric encryption with examples. (Benchmark 1)
+2,Cybersecurity Research Assistance,Summarize the MITRE ATT&CK framework and its primary use cases in threat detection. (Benchmark 2)
+3,Cybersecurity Research Assistance,What are the key stages in a typical ransomware attack lifecycle? (Benchmark 3)
+4,Cybersecurity Research Assistance,How does DNS tunneling work and how can it be detected? (Benchmark 4)
+5,Cybersecurity Research Assistance,Compare the advantages and limitations of signature-based vs behavior-based detection. (Benchmark 5)
+6,Cybersecurity Research Assistance,"What are zero-day vulnerabilities, and how are they typically exploited in the wild? (Benchmark 6)"
+7,Cybersecurity Research Assistance,Explain how an intrusion detection system (IDS) works and give examples of open-source IDS platforms. (Benchmark 7)
+8,Cybersecurity Research Assistance,Describe how adversarial machine learning can be used to evade anomaly detection models. (Benchmark 8)
+9,Cybersecurity Research Assistance,What role does entropy analysis play in malware detection? (Benchmark 9)
+10,Cybersecurity Research Assistance,How can organizations protect against supply chain attacks like the SolarWinds breach? (Benchmark 10)

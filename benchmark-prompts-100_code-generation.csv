@@ -1,0 +1,101 @@
+Prompt #,Type,Prompt
+1,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 1).
+2,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 2).
+3,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 3).
+4,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 4)."
+5,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 5)."
+6,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 6).
+7,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 7).
+8,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 8).
+9,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 9)."
+10,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 10)."
+11,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 11).
+12,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 12).
+13,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 13).
+14,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 14)."
+15,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 15)."
+16,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 16).
+17,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 17).
+18,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 18).
+19,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 19)."
+20,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 20)."
+21,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 21).
+22,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 22).
+23,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 23).
+24,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 24)."
+25,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 25)."
+26,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 26).
+27,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 27).
+28,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 28).
+29,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 29)."
+30,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 30)."
+31,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 31).
+32,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 32).
+33,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 33).
+34,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 34)."
+35,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 35)."
+36,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 36).
+37,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 37).
+38,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 38).
+39,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 39)."
+40,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 40)."
+41,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 41).
+42,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 42).
+43,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 43).
+44,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 44)."
+45,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 45)."
+46,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 46).
+47,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 47).
+48,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 48).
+49,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 49)."
+50,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 50)."
+51,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 51).
+52,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 52).
+53,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 53).
+54,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 54)."
+55,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 55)."
+56,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 56).
+57,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 57).
+58,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 58).
+59,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 59)."
+60,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 60)."
+61,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 61).
+62,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 62).
+63,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 63).
+64,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 64)."
+65,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 65)."
+66,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 66).
+67,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 67).
+68,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 68).
+69,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 69)."
+70,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 70)."
+71,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 71).
+72,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 72).
+73,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 73).
+74,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 74)."
+75,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 75)."
+76,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 76).
+77,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 77).
+78,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 78).
+79,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 79)."
+80,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 80)."
+81,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 81).
+82,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 82).
+83,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 83).
+84,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 84)."
+85,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 85)."
+86,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 86).
+87,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 87).
+88,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 88).
+89,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 89)."
+90,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 90)."
+91,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 91).
+92,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 92).
+93,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 93).
+94,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 94)."
+95,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 95)."
+96,Python-only,Write a Python script to process log files and identify anomalies based on time gaps (Prompt 96).
+97,SPL-only,Create an SPL query to detect potential data exfiltration via large outbound transfers (Prompt 97).
+98,SQL-only,Write a SQL query to retrieve the top 5 users with the most failed logins in the past 24 hours (Prompt 98).
+99,Python + SPL,"Use Python to call the Splunk REST API, execute a search, and visualize login attempts per hour (Prompt 99)."
+100,Python + SQL,"Write a Python script that connects to a PostgreSQL database, inserts network event logs, and runs a summary query (Prompt 100)."
